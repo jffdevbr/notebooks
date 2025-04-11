@@ -1,2 +1,2 @@
-# notebooks_colab
-Notebooks do Colab, Lógica de Programação e Python
+# notebooks
+Notebooks, focados em Lógica de Programação, Linguagem de programação Python e Estatística
